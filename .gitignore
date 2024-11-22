@@ -1,0 +1,11 @@
+echo "x64/
+debug/
+*.obj
+*.exe
+*.dll
+*.pdb
+.vs/
+*.log
+*.tmp
+*.bak
+*.sqlite" > .gitignore
