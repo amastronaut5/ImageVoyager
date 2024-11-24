@@ -1,12 +1,13 @@
 # Image Voyager
 
-#Overview
+#***Overview*** :
+
 Image Voyager is a feature-rich image editing software designed to provide users with an intuitive and dynamic interface to manipulate and transform images. Developed using **Qt Framework** for the GUI and **OpenCV** for image processing, the project showcases a seamless integration of advanced technologies for efficient image editing. 
 
 The application supports a variety of image processing features, including blurring, cropping, flipping, grayscale conversion, brightness adjustment, color inversion, gradient application, and more. It also includes essential tools like Undo/Redo functionality and real-time sliders for fine-tuning image parameters.
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-#Key Features
+#***Key Features***
 1. **Dynamic File Handling**:
    - Open images of various formats like `.png`, `.jpg`, `.bmp`.
    - Save edited images with custom filenames and locations.
