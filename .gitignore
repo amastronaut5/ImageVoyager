@@ -8,4 +8,14 @@ debug/
 *.log
 *.tmp
 *.bak
-*.sqlite" > .gitignore
+*.sqlite
+*.ipch
+*.user
+*.suo
+*.qmake.stash
+*.qmake.cache
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+build/
+*.vcxproj.user" > .gitignore
